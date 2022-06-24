@@ -1,0 +1,7 @@
+arguments: train.py
+--------------------
+tensorflow version: 1.15.0
+--------------------
+git hash: b''
+--------------------
+b''

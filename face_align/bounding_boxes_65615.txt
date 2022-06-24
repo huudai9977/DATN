@@ -1,0 +1,6 @@
+face_align\dai\1.png 201 112 419 363
+face_align\dai\2.png 169 101 373 323
+face_align\dai\3.png 278 97 482 333
+face_align\dai\4.png 249 141 446 369
+face_align\dai\5.png 242 66 435 301
+face_align\dai\6.png 195 110 399 341

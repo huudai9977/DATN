@@ -1,0 +1,3 @@
+face_align\dai\7.png 225 105 429 360
+face_align\dai\8.png 219 104 422 360
+face_align\dai\9.png 200 47 381 264
